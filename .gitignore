@@ -8,6 +8,7 @@ nohup.out
 *trash*/
 *log*/
 *tmp*/
+local/
 # *archive
 
 # *.sh
