@@ -33,6 +33,7 @@ local/
 !/README.md
 !/requirements.txt
 !/setup.py
+!/todo*
 !/VERSION
 
 !/src
